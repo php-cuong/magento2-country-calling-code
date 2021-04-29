@@ -3,7 +3,7 @@ Magento 2 Country Dialing Code
 
 # Show the phone number with the country dialing code and flag in Magento 2
 
-![ScreenShot](https://raw.githubusercontent.com/php-cuong/magento2-country-dialing-code/Snapshots/country-dialing-code.gif)
+![ScreenShot](https://github.com/php-cuong/magento2-country-dialing-code/blob/main/Snapshots/country-dialing-code.gif)
 
 # How to purchase this extension
 - Contact me on
