@@ -1,4 +1,4 @@
-# magento2-country-dialing-code
+# The Country Dialing Code and Flag for Magento 2
 - Magento 2 Country Dialing Code
 - The Country Dialing Code and Flag for Magento 2.
 
