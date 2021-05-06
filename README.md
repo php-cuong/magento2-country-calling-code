@@ -1,6 +1,6 @@
 # magento2-country-dialing-code
-Magento 2 Country Dialing Code
-The Country Dialing Code and Flag for Magento 2.
+- Magento 2 Country Dialing Code
+- The Country Dialing Code and Flag for Magento 2.
 
 # Show the phone number with the country dialing code and flag in Magento 2
 
