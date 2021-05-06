@@ -6,7 +6,7 @@
 
 ![ScreenShot](https://github.com/php-cuong/magento2-country-dialing-code/blob/main/Snapshots/country-dialing-code.gif)
 
-- Set the country dialing code from the backend
+## Set the country dialing code from the backend
 ![ScreenShot](https://github.com/php-cuong/magento2-country-dialing-code/blob/main/Snapshots/configuration.png)
 
 # How to purchase this extension
