@@ -7,8 +7,4 @@
 ![ScreenShot](https://github.com/php-cuong/magento2-country-dialing-code/blob/main/Snapshots/country-dialing-code.gif)
 
 # How to purchase this extension
-- Contact me on
-
-1. Skype: cuongnq87
-
-2. Facebook: https://www.facebook.com/giaphugroupcom/videos/163672758898523
+The purchase link https://www.giaphugroup.com/magento-2-country-calling-code-and-flag-extension.html
